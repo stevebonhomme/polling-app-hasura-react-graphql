@@ -1,4 +1,4 @@
-# Hasura GraphQl Application Over Postgres with React Frontend
+# Hasura GraphQL Application Over Postgres with React Frontend
 
 This repository is for a proof of concept I built using React and is powered by Hasura GraphQL Engine over Postgres.  A voting application that displays the poll results in real-time. Each time someone votes, the application updates automatically and shows the new results.
 
